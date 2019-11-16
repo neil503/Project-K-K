@@ -1,0 +1,32 @@
+html{
+  background-image:url('https://media.istockphoto.com/vectors/background-with-sea-and-palm-trees-sunset-time-vector-id465742508');
+  background-color:#FF00FF;
+}
+form{
+  margin: 0 auto;
+  background-color:#8B4513;
+  width:450px;
+  height:200px;
+}
+button {
+  cursor:pointer;
+  margin-top: 1px;
+  padding:10px 30px;
+  heigth:50px;
+  color:#000000;
+  background:#FFFF00;
+  border:none;
+}
+h1{
+  cursor:help;
+  margin:0;
+}
+input{
+  border-radius:20px/20px;
+}
+label{
+  color:#FFFF00;
+}
+
+
+
